@@ -25,7 +25,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
+              title="4Rent"
               description="A project that allows users to rent timeshares flexibly and conveniently. The project aims to create a community that allows people to easily search, book, and share accommodation facilities for short-term or long-term trips."
               ghLink="https://github.com/NeyuD96155/4Rent"
               demoLink="4rent.tech"
@@ -36,7 +36,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="4Rent"
               description="A project that allows users to rent timeshares flexibly and conveniently. The project aims to create a community that allows people to easily search, book, and share accommodation facilities for short-term or long-term trips."
               ghLink="https://github.com/NeyuD96155/4RentBE"
               demoLink="4rent.tech"
@@ -47,7 +47,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title="4Rent"
               description="A project that allows users to rent timeshares flexibly and conveniently. The project aims to create a community that allows people to easily search, book, and share accommodation facilities for short-term or long-term trips."
               ghLink="https://github.com/NeyuD96155/SWT-FJ"
               demoLink="4rent.tech"              
